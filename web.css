@@ -1,0 +1,19 @@
+body{
+    background-image:url("https://c8.alamy.com/comp/2B09AGA/vector-rainbow-and-clouds-with-falling-rain-blue-sky-weather-rain-and-sun-illustration-2B09AGA.jpg");
+}
+input{
+    height:50px;
+    width:100px;
+    color:deeppink;
+    border:solid;
+    font-style: oblique;
+    
+}
+button{
+    background-color:darkcyan;
+    height:30px;
+    width:100px;
+    }
+    p{
+        font-size:100px ;
+    }
